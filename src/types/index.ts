@@ -1,0 +1,4 @@
+export const LANDING_SCREEN = 'LANDING_SCREEN';
+export const KNOW_SCREEN = 'KNOW_SCREEN';
+export const FORGET_PASSWORD = 'FORGET_PASSWORD';
+export const CREATE_ACCOUNT = 'CREATE_ACCOUNT';
